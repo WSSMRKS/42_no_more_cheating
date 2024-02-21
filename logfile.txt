@@ -1,0 +1,186 @@
+Tests with BUFFER_SIZE=1:
+Return value OK!
+Diff 0: OK! ("test_src/2_file_5_lines.txt")
+Return value OK!
+Diff 1: OK! ("test_src/42_with_nl")
+Return value OK!
+Diff 2: OK! ("test_src/1_line_0.txt")
+Return value OK!
+Diff 3: OK! ("test_src/1_line_long_nl.txt")
+Return value OK!
+Diff 4: OK! ("test_src/1_line_long_0.txt")
+Return value OK!
+Diff 5: OK! ("test_src/1_line_only_nl.txt")
+Return value OK!
+Diff 6: OK! ("test_src/1_line_empty.txt")
+Return value OK!
+Diff 7: OK! ("test_src/2_file_1longline.txt")
+Return value OK!
+Diff 8: OK! ("test_src/2_file_5nl.txt")
+Return value OK!
+Diff 9: OK! ("test_src/2_file_10_long_lines.txt")
+Return value OK!
+Diff 10: OK! ("test_src/2_file_100lines.txt")
+Return value OK!
+Diff 11: OK! ("test_src/2_file_100nl.txt")
+Return value OK!
+Diff 12: OK! ("test_src/2_file_empty.txt")
+Return value OK!
+Diff 13: OK! ("test_src/1_char.txt")
+Return value OK!
+Diff 14: OK! ("test_src/empty.txt")
+Tests with BUFFER_SIZE=41:
+Return value OK!
+Diff 0: OK! ("test_src/2_file_5_lines.txt")
+Return value OK!
+Diff 1: OK! ("test_src/42_with_nl")
+Return value OK!
+Diff 2: OK! ("test_src/1_line_0.txt")
+Return value OK!
+Diff 3: OK! ("test_src/1_line_long_nl.txt")
+Return value OK!
+Diff 4: OK! ("test_src/1_line_long_0.txt")
+Return value OK!
+Diff 5: OK! ("test_src/1_line_only_nl.txt")
+Return value OK!
+Diff 6: OK! ("test_src/1_line_empty.txt")
+Return value OK!
+Diff 7: OK! ("test_src/2_file_1longline.txt")
+Return value OK!
+Diff 8: OK! ("test_src/2_file_5nl.txt")
+Return value OK!
+Diff 9: OK! ("test_src/2_file_10_long_lines.txt")
+Return value OK!
+Diff 10: OK! ("test_src/2_file_100lines.txt")
+Return value OK!
+Diff 11: OK! ("test_src/2_file_100nl.txt")
+Return value OK!
+Diff 12: OK! ("test_src/2_file_empty.txt")
+Return value OK!
+Diff 13: OK! ("test_src/1_char.txt")
+Return value OK!
+Diff 14: OK! ("test_src/empty.txt")
+Tests with BUFFER_SIZE=42:
+Return value OK!
+Diff 0: OK! ("test_src/2_file_5_lines.txt")
+Return value OK!
+Diff 1: OK! ("test_src/42_with_nl")
+Return value OK!
+Diff 2: OK! ("test_src/1_line_0.txt")
+Return value OK!
+Diff 3: OK! ("test_src/1_line_long_nl.txt")
+Return value OK!
+Diff 4: OK! ("test_src/1_line_long_0.txt")
+Return value OK!
+Diff 5: OK! ("test_src/1_line_only_nl.txt")
+Return value OK!
+Diff 6: OK! ("test_src/1_line_empty.txt")
+Return value OK!
+Diff 7: OK! ("test_src/2_file_1longline.txt")
+Return value OK!
+Diff 8: OK! ("test_src/2_file_5nl.txt")
+Return value OK!
+Diff 9: OK! ("test_src/2_file_10_long_lines.txt")
+Return value OK!
+Diff 10: OK! ("test_src/2_file_100lines.txt")
+Return value OK!
+Diff 11: OK! ("test_src/2_file_100nl.txt")
+Return value OK!
+Diff 12: OK! ("test_src/2_file_empty.txt")
+Return value OK!
+Diff 13: OK! ("test_src/1_char.txt")
+Return value OK!
+Diff 14: OK! ("test_src/empty.txt")
+Tests with BUFFER_SIZE=43:
+Return value OK!
+Diff 0: OK! ("test_src/2_file_5_lines.txt")
+Return value OK!
+Diff 1: OK! ("test_src/42_with_nl")
+Return value OK!
+Diff 2: OK! ("test_src/1_line_0.txt")
+Return value OK!
+Diff 3: OK! ("test_src/1_line_long_nl.txt")
+Return value OK!
+Diff 4: OK! ("test_src/1_line_long_0.txt")
+Return value OK!
+Diff 5: OK! ("test_src/1_line_only_nl.txt")
+Return value OK!
+Diff 6: OK! ("test_src/1_line_empty.txt")
+Return value OK!
+Diff 7: OK! ("test_src/2_file_1longline.txt")
+Return value OK!
+Diff 8: OK! ("test_src/2_file_5nl.txt")
+Return value OK!
+Diff 9: OK! ("test_src/2_file_10_long_lines.txt")
+Return value OK!
+Diff 10: OK! ("test_src/2_file_100lines.txt")
+Return value OK!
+Diff 11: OK! ("test_src/2_file_100nl.txt")
+Return value OK!
+Diff 12: OK! ("test_src/2_file_empty.txt")
+Return value OK!
+Diff 13: OK! ("test_src/1_char.txt")
+Return value OK!
+Diff 14: OK! ("test_src/empty.txt")
+Tests with BUFFER_SIZE=100:
+Return value OK!
+Diff 0: OK! ("test_src/2_file_5_lines.txt")
+Return value OK!
+Diff 1: OK! ("test_src/42_with_nl")
+Return value OK!
+Diff 2: OK! ("test_src/1_line_0.txt")
+Return value OK!
+Diff 3: OK! ("test_src/1_line_long_nl.txt")
+Return value OK!
+Diff 4: OK! ("test_src/1_line_long_0.txt")
+Return value OK!
+Diff 5: OK! ("test_src/1_line_only_nl.txt")
+Return value OK!
+Diff 6: OK! ("test_src/1_line_empty.txt")
+Return value OK!
+Diff 7: OK! ("test_src/2_file_1longline.txt")
+Return value OK!
+Diff 8: OK! ("test_src/2_file_5nl.txt")
+Return value OK!
+Diff 9: OK! ("test_src/2_file_10_long_lines.txt")
+Return value OK!
+Diff 10: OK! ("test_src/2_file_100lines.txt")
+Return value OK!
+Diff 11: OK! ("test_src/2_file_100nl.txt")
+Return value OK!
+Diff 12: OK! ("test_src/2_file_empty.txt")
+Return value OK!
+Diff 13: OK! ("test_src/1_char.txt")
+Return value OK!
+Diff 14: OK! ("test_src/empty.txt")
+Tests with BUFFER_SIZE=1000000:
+Return value OK!
+Diff 0: OK! ("test_src/2_file_5_lines.txt")
+Return value OK!
+Diff 1: OK! ("test_src/42_with_nl")
+Return value OK!
+Diff 2: OK! ("test_src/1_line_0.txt")
+Return value OK!
+Diff 3: OK! ("test_src/1_line_long_nl.txt")
+Return value OK!
+Diff 4: OK! ("test_src/1_line_long_0.txt")
+Return value OK!
+Diff 5: OK! ("test_src/1_line_only_nl.txt")
+Return value OK!
+Diff 6: OK! ("test_src/1_line_empty.txt")
+Return value OK!
+Diff 7: OK! ("test_src/2_file_1longline.txt")
+Return value OK!
+Diff 8: OK! ("test_src/2_file_5nl.txt")
+Return value OK!
+Diff 9: OK! ("test_src/2_file_10_long_lines.txt")
+Return value OK!
+Diff 10: OK! ("test_src/2_file_100lines.txt")
+Return value OK!
+Diff 11: OK! ("test_src/2_file_100nl.txt")
+Return value OK!
+Diff 12: OK! ("test_src/2_file_empty.txt")
+Return value OK!
+Diff 13: OK! ("test_src/1_char.txt")
+Return value OK!
+Diff 14: OK! ("test_src/empty.txt")
